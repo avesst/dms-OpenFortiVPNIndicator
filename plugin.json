@@ -1,0 +1,10 @@
+{
+    "id": "openFortiVpnIndicator",
+    "name": "OpenFortiVPN Indicator",
+    "description": "Widget to display openfortivpn status",
+    "version": "1.0.0",
+    "author": "avesst",
+    "type": "widget",
+    "component": "Widget.qml",
+    "capabilities": ["dankbar-widget"]
+}
