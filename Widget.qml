@@ -16,7 +16,7 @@ PluginComponent {
     horizontalBarPill: Component {
         DankIcon {
             id: vpn_icon
-            name: "vpn_lock"
+            name: "vpn_lock_2"
             color: interfaceActive ? Theme.primary : Theme.outlineButton
         }
     }
